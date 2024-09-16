@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food List</title>
+</head>
+<body>
+    <h1>Food List</h1>
+    <ul>
+        {% for food in foods %}
+            <li>{{ food.name }} - Calories: {{ food.calories }}, Carbohydrates: {{ food.carbohydrates }}, Proteins: {{ food.proteins }}, Fats: {{ food.fats }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
