@@ -50,3 +50,7 @@ The diet plan allows users to craft healthy menu's each day of the week. Users c
 Users will be able to store and retrieve information in their FitFix Account:
 
 ![](https://github.com/kushpatelj86/CPSC-362-Group-Project-Workout-Website-/blob/main/screenshots/Screenshot%20from%202024-04-25%2014-22-53.png)
+
+### Disclaimer
+
+I am not maintaining this code; it is just for learning and educational purposes.
