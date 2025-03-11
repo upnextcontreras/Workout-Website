@@ -53,4 +53,4 @@ Users will be able to store and retrieve information in their FitFix Account:
 
 ### Disclaimer
 
-I am not maintaining this code; it is just for learning and educational purposes.
+We are not maintaining this code; it is just for learning and educational purposes.
